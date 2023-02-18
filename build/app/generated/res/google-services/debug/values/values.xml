@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">97751716247-qnfvh43ouvqsa09g2obsjk9a94atqu1c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">97751716247</string>
+    <string name="google_api_key" translatable="false">AIzaSyAuVBl8LotmxrDvVlRW053nxbTt1AEyJkg</string>
+    <string name="google_app_id" translatable="false">1:97751716247:android:6bcb7a24b0b8ca28f2f4d2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuVBl8LotmxrDvVlRW053nxbTt1AEyJkg</string>
+    <string name="google_storage_bucket" translatable="false">recipe-bok-32b79.appspot.com</string>
+    <string name="project_id" translatable="false">recipe-bok-32b79</string>
+</resources>
