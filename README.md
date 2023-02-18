@@ -9,7 +9,7 @@ a WIP flutter project with the following featueres:
 
 
 
-This app should work without any issues in android or in web(chrome/firefox) although it may not work very well with ios as it is not tested on iPhone beacuse I unfortunately do not have access to Xcode and iphone emulator which works macOS, both of which are important for firebase integration and ios development.
+This app should work without any issues in android or in web(chrome/firefox) although it may not work very well with ios as it is not tested on iPhone beacuse I unfortunately do not have access to Xcode and iphone emulator which requires macOS, both of which are important for firebase integration and ios development.
 
 A few resources to get you started if this is your first Flutter project:
 
